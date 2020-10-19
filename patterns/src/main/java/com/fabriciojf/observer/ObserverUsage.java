@@ -12,6 +12,9 @@ public class ObserverUsage {
 
 	public static void main(String[] args) {
 
+		/**
+		 * When chicken put eggs, the collector work
+		 */
 		Chicken chicken = new Chicken();
 		Collector collector = new Collector();
 
@@ -24,7 +27,8 @@ public class ObserverUsage {
 				e.printStackTrace();
 			}
 		}
-
+		
+		System.out.println(new ObserverUsage().toString());
 	}
 
 }
