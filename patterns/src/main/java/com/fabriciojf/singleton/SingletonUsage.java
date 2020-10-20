@@ -1,7 +1,7 @@
 package com.fabriciojf.singleton;
 
 /**
- * Singleton Pattern Example Usage
+ * Singleton Sample Code Usage
  * @author Fabricio S Costa fabriciojf@gmail.com
  * @class SingletonUsage 
  * @version 1.0

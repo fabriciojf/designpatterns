@@ -1,7 +1,7 @@
 package com.fabriciojf.observer;
 
 /**
- * Observer usage example
+ * Observer Sample Code Usage
  * 
  * @author Fabricio S Costa fabriciojf@gmail.com
  * @class ObserverUsage

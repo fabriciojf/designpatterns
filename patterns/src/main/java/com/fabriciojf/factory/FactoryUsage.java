@@ -1,7 +1,7 @@
 package com.fabriciojf.factory;
 
 /**
- * Factor Pattern Usage
+ * Factory Sample Code Usage
  * @author Fabricio S Costa fabriciojf@gmail.com
  * @class FactoryUsage 
  * @version 1.0

@@ -1,7 +1,7 @@
 package com.fabriciojf.depinjection;
 
 /**
- * Dependency Injection Pattern Example Usage
+ * Dependency Injection Sample Code Usage
  * @author Fabricio S Costa fabriciojf@gmail.com
  * @class DependencyInjectionUsage 
  * @version 1.0

@@ -1,7 +1,7 @@
 package com.fabriciojf.prototype;
 
 /**
- * Example of the Prototype usage
+ * Prototype Sample Code Usage
  * 
  * @author Fabricio S Costa fabriciojf@gmail.com
  * @class PrototypeUsage 
